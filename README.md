@@ -4,4 +4,4 @@
 # Yenifer Hernandez Martinez
 # Cuatrimestre: 4to
 # Grupo: TDSM-G1
-# 002 - Ejercicios Js Arrays
+# Actividad: 002 - Ejercicios Js Arrays
